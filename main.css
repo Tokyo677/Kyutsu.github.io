@@ -1,0 +1,40 @@
+@charset "utf-8";
+body {
+    background-color: #36393e;
+    color: #dcddde;
+}
+
+h1 {
+    font-size:178%;
+    text-align: center;
+}
+
+h2 {
+    font-size:170%;
+    text-align: center;
+}
+
+h3 {
+    font-size:150%;
+    text-align: left;
+}
+
+p {
+    font-size:100%;
+    text-align: center;
+}
+
+a {
+    font-size:170%;
+    color: #dcddde;
+    text-decoration: none;
+    text-align: center;
+}
+
+hr {
+    width:60%;
+}
+
+h3,li {
+    margin-left: 5%;
+}
