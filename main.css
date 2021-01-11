@@ -5,32 +5,36 @@ body {
 }
 
 h1 {
-    font-size:175%;
+    font-size:30px;
     text-align: center;
 }
 
 h2 {
-    font-size:170%;
+    font-size:25px;
     text-align: center;
 }
 
 h3 {
-    font-size:150%;
+    font-size:25px;
     text-align: left;
 }
 
 p {
-    font-size:100%;
+    font-size:15px;
     text-align: center;
 }
 
 a {
-    font-size:170%;
+    font-size:25px;
     color: #dcddde;
     text-decoration: none;
     text-align: center;
 }
 
-h3,li {
+h3 {
     margin-left: 5%;
+}
+
+li {
+    margin-left:5%;
 }
